@@ -1,0 +1,72 @@
+site_name: Yann Mello Curriculum Vitae
+
+
+theme:
+  favicon: assets/favicon.ico
+  logo: assets/favicon.ico
+  name: material
+  language: pt-BR
+  palette:
+    - scheme: default
+      primary: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Modo Noturno
+    - scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Modo Claro
+  features:
+    - navigation.instant.progress
+    # - navigation.tabs
+
+extra:
+  alternate:
+    - name: Português
+      link: / 
+      lang: pt-BR
+    - name: English
+      link: /en/
+      lang: en
+    - name: Français
+      link: /fr/
+      lang: fr
+  social:
+    - icon: material/github
+      name: GitHub
+      link: https://github.com/yanndrade
+    - icon: material/linkedin
+      name: LinkedIn
+      link: https://www.linkedin.com/in/yanndrade/
+    - icon: material/email
+      name: Email
+      link: mailto:ybamello@hotmail.com
+
+plugins:
+  - i18n:
+      reconfigure_material: true
+      docs_structure: folder
+      languages:
+        - locale: en
+          name: English
+          build: true
+        - locale: pt
+          name: Português
+          build: true
+          default: true
+        - locale: fr
+          name: Français
+          build: true
+
+extra_css:
+  - css/neotoroi-mkdocs.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.blocks.html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
