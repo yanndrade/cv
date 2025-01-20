@@ -109,9 +109,9 @@ style="float:left; width:65px; height:65px;">
 ## Descubra mais sobre mim:
 
 <div class="grid">
-    <a href="/" class="md-button md-button--primary">👋 Apresentação</a>
-    <a href="/education" class="md-button md-button--primary">📚 Educação</a>
+    <a href="../" class="md-button md-button--primary">👋 Apresentação</a>
+    <a href="../education" class="md-button md-button--primary">📚 Educação</a>
     <a href="#" class="md-button md-button--primary">🛠️ Experiência</a>
-    <a href="/others" class="md-button md-button--primary">🌟 Outros</a>
+    <a href="../others" class="md-button md-button--primary">🌟 Outros</a>
 </div>
 

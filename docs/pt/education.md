@@ -57,7 +57,7 @@
 
 <img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" style="float:left; padding-right:10px " width="50" height="50" >
 <img alt="Link" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" style="float:left; padding-right:10px " width="55" height="55" >
-<img  src="/assets/langchain-color.png" style="float:left; padding-right:10px " width="55" height="55" >
+<img  src="../assets/langchain-color.png" style="float:left; padding-right:10px " width="55" height="55" >
 <img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLAlchemy.svg" style="float:left; padding-right:10px " width="55" height="55" >
 <br>
 &nbsp;
@@ -73,7 +73,7 @@
 &nbsp;
 
 <img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="float:left; padding-right:10px " width="53" height="53" >
-<img src="/assets/msqsql.svg" style="float:left; padding-right:10px " width="90" height="90" >
+<img src="../assets/msqsql.svg" style="float:left; padding-right:10px " width="90" height="90" >
 
 <br>
 
@@ -94,8 +94,8 @@
 ## Descubra mais sobre mim:
 
 <div class="grid">
-  <a href="/" class="md-button md-button--primary">👋 Apresentação</a>
+  <a href="../" class="md-button md-button--primary">👋 Apresentação</a>
   <a href="#" class="md-button md-button--primary">📚 Educação</a>
-  <a href="/professional" class="md-button md-button--primary">🛠️ Experiência</a>
-  <a href="/others" class="md-button md-button--primary">🌟 Outros</a>
+  <a href="../professional" class="md-button md-button--primary">🛠️ Experiência</a>
+  <a href="../others" class="md-button md-button--primary">🌟 Outros</a>
 </div>
