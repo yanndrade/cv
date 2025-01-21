@@ -31,8 +31,8 @@ style="float:left; width:90px; height:65px;">
 
 <div class="grid">
   <a href="../" class="md-button md-button--primary">👋 Apresentação</a>
-  <a href="../../education" class="md-button md-button--primary">📚 Educação</a>
-  <a href="../../professional" class="md-button md-button--primary">🛠️ Experiência</a>
+  <a href="/cv/education" class="md-button md-button--primary">📚 Educação</a>
+  <a href="/cv/professional" class="md-button md-button--primary">🛠️ Experiência</a>
   <a href="#" class="md-button md-button--primary">🌟 Outros</a>
 </div>
 
