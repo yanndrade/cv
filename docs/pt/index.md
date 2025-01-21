@@ -18,7 +18,7 @@
 ### :computer: 
 [:simple-github:](https://github.com/yanndrade) 
 [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/yanndrade/)
-[:material-web:](https://www.linkedin.com/in/yanndrade/) <!--- TODO: Colocar site do ghpages --->
+[:material-web:](https://yanndrade.github.io/cv/) 
 
 <h3>Emails:</h3>
 [:material-email: ybamello@hotmail.com](mailto:ybamello@hotmail.com)
