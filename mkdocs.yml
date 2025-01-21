@@ -23,13 +23,13 @@ theme:
 extra:
   alternate:
     - name: Português
-      link: / 
+      link: /cv/ 
       lang: pt-BR
     - name: English
-      link: /en/
+      link: /cv/en/
       lang: en
     - name: Français
-      link: /fr/
+      link: /cv/fr/
       lang: fr
   social:
     - icon: material/github
