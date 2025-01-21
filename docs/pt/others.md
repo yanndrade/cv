@@ -3,7 +3,7 @@
 ## Honras e Prêmios
 
 <p>
-<img src="../cv/assets/brafitec.jpg" alt="Smiley face image"
+<img src="../assets/brafitec.jpg" alt="Smiley face image"
 style="float:left; width:65px; height:52px;">
 <span style="vertical-align:bottom">
 &nbsp <strong>  BRAFITEC </strong> <br>
@@ -15,7 +15,7 @@ style="float:left; width:65px; height:52px;">
 * <p align="justify">Concedido a menos de 1% dos estudantes de engenharia no Brasil.</p>
 <hr size="30">
 <p>
-<img src="./assets/Logo_olx.png" alt="Smiley face image"
+<img src="../assets/Logo_olx.png" alt="Smiley face image"
 style="float:left; width:90px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong>  HACKTUDO OLX- Festival de Cultura Digital </strong> <br>
