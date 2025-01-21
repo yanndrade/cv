@@ -1,4 +1,6 @@
 site_name: Yann Mello Curriculum Vitae
+site_url: https://yanndrade.github.io/cv/
+use_directory_urls: false
 
 
 theme:
