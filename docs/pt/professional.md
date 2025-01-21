@@ -2,7 +2,7 @@
 ## Experiência Profissional
 
 <p align="justify">
-<img alt = "Link" src="../assets/visagio.jpg" alt="Smiley face image"
+<img alt = "Link" src="../cv/assets/visagio.jpg" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Estágio em Ciência de Dados</strong> <br>
@@ -25,7 +25,7 @@ clientes por meio de um Classificador baseado em Árvore de Decisão.
 <br>
 <hr size="30">
 <p align="justify">
-<img alt = "Link" src="../assets/goaland_logo.jpg" alt="Smiley face image"
+<img alt = "Link" src="../cv/assets/goaland_logo.jpg" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Projeto de Inteligência Competitiva</strong> <br>
@@ -43,7 +43,7 @@ aprovação e validação de 2 novas áreas de atuação pela empresa cliente.
 ## Experiência Acadêmica
 
 <p align="justify">
-<img alt = "Link" src="../assets/ieee.jpg" alt="Smiley face image"
+<img alt = "Link" src="../cv/assets/ieee.jpg" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Membro Estudantil</strong> <br>
@@ -58,7 +58,7 @@ Ampliação do uso de uma plataforma de inteligência competitiva da empresa GOA
 <br>
 <hr size="30">
 <p align="justify">
-<img alt = "Link" src="../assets/gpar.jpeg" alt="Smiley face image"
+<img alt = "Link" src="../cv/assets/gpar.jpeg" alt="Smiley face image"
 style="float:left; width:80px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Membro Bolsista</strong> <br>
@@ -75,7 +75,7 @@ Bolsa de Excelência: Estudo e implementação de controladores PI e PID sinteti
 <hr size="30">
 
 <p align="justify">
-<img alt = "Link" src="../assets/pet.jpg" alt="Smiley face image"
+<img alt = "Link" src="../cv/assets/pet.jpg" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Membro Bolsista</strong> <br>
@@ -91,7 +91,7 @@ Programa de educação, pesquisa e extensão no qual aprimorei minhas habilidade
 <br>
 <hr size="30">
 <p align="justify">
-<img alt = "Link" src="../assets/seelect.webp" alt="Smiley face image"
+<img alt = "Link" src="../cv/assets/seelect.webp" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Coordenador Geral</strong> <br>
@@ -109,7 +109,7 @@ style="float:left; width:65px; height:65px;">
 ## Descubra mais sobre mim:
 
 <div class="grid">
-    <a href="../" class="md-button md-button--primary">👋 Apresentação</a>
+    <a href="/cv/" class="md-button md-button--primary">👋 Apresentação</a>
     <a href="/cv/education" class="md-button md-button--primary">📚 Educação</a>
     <a href="#" class="md-button md-button--primary">🛠️ Experiência</a>
     <a href="/cv/others" class="md-button md-button--primary">🌟 Outros</a>

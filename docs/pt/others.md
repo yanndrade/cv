@@ -3,7 +3,7 @@
 ## Honras e Prêmios
 
 <p>
-<img src="../assets/brafitec.jpg" alt="Smiley face image"
+<img src="../cv/assets/brafitec.jpg" alt="Smiley face image"
 style="float:left; width:65px; height:52px;">
 <span style="vertical-align:bottom">
 &nbsp <strong>  BRAFITEC </strong> <br>
@@ -15,7 +15,7 @@ style="float:left; width:65px; height:52px;">
 * <p align="justify">Concedido a menos de 1% dos estudantes de engenharia no Brasil.</p>
 <hr size="30">
 <p>
-<img src="../assets/Logo_olx.png" alt="Smiley face image"
+<img src="../cv/assets/Logo_olx.png" alt="Smiley face image"
 style="float:left; width:90px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp <strong>  HACKTUDO OLX- Festival de Cultura Digital </strong> <br>
@@ -30,7 +30,7 @@ style="float:left; width:90px; height:65px;">
 ## Descubra mais sobre mim:
 
 <div class="grid">
-  <a href="../" class="md-button md-button--primary">👋 Apresentação</a>
+  <a href="/cv/" class="md-button md-button--primary">👋 Apresentação</a>
   <a href="/cv/education" class="md-button md-button--primary">📚 Educação</a>
   <a href="/cv/professional" class="md-button md-button--primary">🛠️ Experiência</a>
   <a href="#" class="md-button md-button--primary">🌟 Outros</a>
